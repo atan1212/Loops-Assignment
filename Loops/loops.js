@@ -21,7 +21,7 @@ function mo4() {
 }
 
 function on1155() {
-    for (num = 11; num <= 55; num += 2) {
+    for (num = 55; num >= 11; num -= 2) {
         console.log(num);
     }
 }
